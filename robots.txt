@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maaghienge.dc902.ca/sitemap.xml
